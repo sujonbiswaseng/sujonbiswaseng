@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="/asset/banner.png" alt="Banner" width="100%" style="height: 60vh; object-fit: cover;" />
+  <img src="/asset/banner.png" alt="Banner" width="100%" style="height: 80vh; object-fit: cover;" />
   <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4BF72E&background=000000&width=600&lines=Full+Stack+Developer;Web+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
-  </a>
 </p>
 
 <h1 align="center">
@@ -65,23 +62,60 @@
 
   <h3 style="color:#4BF72E;">🚀 Frontend</h3>
   <ul>
-    <li>HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, React, Next.js</li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" />
+      HTML5,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" />
+      CSS3,
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="20" alt="Tailwind CSS" />
+      TailwindCSS,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="Bootstrap" />
+      Bootstrap,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" />
+      JavaScript,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" />
+      TypeScript,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" />
+      React,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" />
+      Next.js
+    </li>
   </ul>
   <h3 style="color:#4BF72E;">🛠 Backend</h3>
   <ul>
-    <li>Node.js, Express.js</li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js" />
+      Node.js,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="Express.js" style="background-color: white; padding: 2px; border-radius: 3px;" />
+      Express.js
+    </li>
   </ul>
   <h3 style="color:#4BF72E;">🗄 Database</h3>
   <ul>
-    <li>PostgreSQL, Prisma</li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" />
+      PostgreSQL,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="20" alt="Prisma" />
+      Prisma
+    </li>
   </ul>
   <h3 style="color:#4BF72E;">🔧 DevOps</h3>
   <ul>
-    <li>Docker</li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="Docker" />
+      Docker
+    </li>
   </ul>
   <h3 style="color:#4BF72E;">🛠 Tools & Others</h3>
   <ul>
-    <li>Git, GitHub, GitLab</li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" />
+      Git,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="GitHub" />
+      GitHub,
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="20" alt="GitLab" />
+      GitLab
+    </li>
   </ul>
 </details>
 
