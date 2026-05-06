@@ -4,7 +4,7 @@
   
   # Hi there 👋, I'm sujon biswas 
 
-## 💻 Full-Stack Developer | React | Next.js | Node.js | PostgreSQL | Scalable Web Applications
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4BF72E&background=000000&width=435&lines=full+stack+developer;web+developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" /></a>
 
 I am a passionate Full-Stack Developer focused on building scalable, efficient, and user-friendly web applications.  
 
@@ -13,6 +13,8 @@ I am a passionate Full-Stack Developer focused on building scalable, efficient, 
 - 🔭 I’m currently working on: **Scalable Web Applications & SaaS Products**
 - 🌱 I’m currently learning: **System Design, Advanced Backend Architecture**
 - 💬 Ask me about: **JavaScript,Typescript, React, Node.js, Next.js, Prisma,,PostgreSQL ,Docker**
+- 📍 Location: **Sylhet, Bangladesh**
+
 - 📫 How to reach me: **sujonbiswasdev@gmail.com**
 - 🌐 Portfolio: **https://sujonbiswasdev.vercel.app**
 - 💼 LinkedIn: **https://www.linkedin.com/in/sujonbiswaseng/**
