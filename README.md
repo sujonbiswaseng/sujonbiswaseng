@@ -1,12 +1,12 @@
 
-  ![Alt text](https://images.pexels.com/photos/37001447/pexels-photo-37001447.jpeg)
+  ![Alt text](/asset/banner.png)
   
   
   # Hi there 👋, I'm sujon biswas 
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4BF72E&background=000000&width=435&lines=full+stack+developer;web+developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" /></a>
 
-I am a passionate Full-Stack Developer focused on building scalable, efficient, and user-friendly web applications.  
+Full-Stack Developer building scalable SaaS & production-ready web apps | React, Next.js, Node.js | Focused on performance & clean architecture 
 
 ## 🧠 About Me
 
@@ -17,6 +17,8 @@ I am a passionate Full-Stack Developer focused on building scalable, efficient, 
 
 - 📫 How to reach me: **sujonbiswasdev@gmail.com**
 - 🌐 Portfolio: **https://sujonbiswasdev.vercel.app**
+- 📄 Resume: [View Online](https://drive.google.com/file/d/1OuF6_rpU_tGZk7cEBw-ft02IrUKijgT1/view?usp=sharing) | [Download PDF](https://drive.google.com/uc?export=download&id=1OuF6_rpU_tGZk7cEBw-ft02IrUKijgT1)
+
 - 💼 LinkedIn: **https://www.linkedin.com/in/sujonbiswaseng/**
 [GitHub](https://github.com)
 ---
@@ -69,6 +71,8 @@ I am a passionate Full-Stack Developer focused on building scalable, efficient, 
 - 🔹 Tech Stack: Next.js, Express, PostgreSQL,Prisma
 - 🔹 [live demo](https://full-stack-ecommerce-frontend-websi.vercel.app)
 - 🔹 [GitHub Repo](https://github.com/sujonbiswaseng/full-stack-ecommerce-frontend-food-website.git)
+
+
 
 ---
 
