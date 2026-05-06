@@ -10,7 +10,7 @@ Full-Stack Developer building scalable SaaS & production-ready web apps | React,
 
 - 🔭 I’m currently working on: **Scalable Web Applications & SaaS Products**
 - 🌱 I’m currently learning: **System Design, Advanced Backend Architecture**
-- 💬 Ask me about: **JavaScript,Typescript, React, Node.js, Next.js, Prisma,,PostgreSQL ,Docker**
+- 💬 Ask me about: **tailwindcss,bootstrap,JavaScript,Typescript, React,Next.js, Node.js,expressjs,  Prisma,PostgreSQL ,Docker**
 - 📍 Location: **Sylhet, Bangladesh**
 
 - 📫 How to reach me: **sujonbiswasdev@gmail.com**
