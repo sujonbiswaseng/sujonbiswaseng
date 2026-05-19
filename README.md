@@ -15,7 +15,7 @@ Full-Stack Developer building scalable SaaS & production-ready web apps | React,
 
 - 📫 How to reach me: **sujonbiswasdev@gmail.com**
 - 🌐 Portfolio: **https://sujonbiswasdev.vercel.app**
-- 📄 Resume: **[Resume](https://drive.google.com/file/d/1F6ub5snlCTWcR8VbYQmsbBVDuSsl3-2y/view?usp=sharing)**
+- 📄 Resume: **[Resume](https://drive.google.com/file/d/1wCNofVNfM7zXPdenB-zH6ruUATlBYPxJ/view?usp=sharing)**
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/sujonbiswaseng**
 
